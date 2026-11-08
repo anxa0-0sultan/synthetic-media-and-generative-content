@@ -1,5 +1,0 @@
-diffusers
-transformers
-accelerate
-torch
-pillow
